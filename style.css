@@ -21,3 +21,9 @@ h1 {
 .pie-color {
     background-color: red;
 }
+
+h1 span {
+    background-color: aqua;
+    /* Sets background of text width to color */
+}
+

@@ -27,3 +27,6 @@ h1 span {
     /* Sets background of text width to color */
 }
 
+#odin-title {
+    text-decoration: underline;
+}

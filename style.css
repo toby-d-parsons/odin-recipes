@@ -1,9 +1,24 @@
+/* * {
+    border: 1px solid red;
+    margin: 0;
+    padding: 0;
+} */
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
     font-weight:900;
+}
+
+.recipe-list {
+    margin: 8px;
+    padding: 8px;
+}
+
+.recipe-list-inner{
+    padding: 10px;
 }
 
 .text-center {
